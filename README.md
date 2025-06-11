@@ -44,13 +44,12 @@ RestaurantExplorer/
 1. Clone the repository:
    ```bash
    git clone https://github.com/icodecocoa/restaurant-explorer.git
-
-	2.	Open the project in Xcode:
+	
+ 2.	Open the project in Xcode:
 
 open RestaurantExplorer.xcodeproj
 
-
-	3.	Run the app on Simulator or a real device.
+3.	Run the app on Simulator or a real device.
 
 ⸻
 
@@ -92,4 +91,5 @@ The app includes modular components that are easily unit testable. (Add test tar
 👩‍💻 Author
 
 Drashti Lakhani
-Feel free to reach out on LinkedIn or GitHub!
+Feel free to reach out on 
+[LinkedIn](https://www.linkedin.com/in/drashti-lakhani/) or [GitHub](https://github.com/icodecocoa)!
