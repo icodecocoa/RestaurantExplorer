@@ -91,5 +91,6 @@ The app includes modular components that are easily unit testable. (Add test tar
 👩‍💻 Author
 
 Drashti Lakhani
+
 Feel free to reach out on 
 [LinkedIn](https://www.linkedin.com/in/drashti-lakhani/) or [GitHub](https://github.com/icodecocoa)!
