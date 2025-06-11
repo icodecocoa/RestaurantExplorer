@@ -44,7 +44,7 @@ RestaurantExplorer/
 1. Clone the repository:
    ```bash
    git clone https://github.com/icodecocoa/restaurant-explorer.git
-	
+   
  2.	Open the project in Xcode:
 
 open RestaurantExplorer.xcodeproj
