@@ -12,6 +12,7 @@ struct RestaurantListView: View {
     
     var body: some View {
         NavigationStack {
+            TextField("Search by name...", text:  $viewModel.searchText)
             Group {
                 switch viewModel.state {
                 case .loading:
